@@ -8,3 +8,7 @@ class Dog
     
     end
 end
+dog1=Dog.new
+dog1.breed="Mastiff"
+dog1.name = "Mastiff"
+puts dog1.breed
